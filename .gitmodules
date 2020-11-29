@@ -1,0 +1,3 @@
+[submodule "flasktest"]
+	path = flasktest
+	url = https://github.com/shalviands/Submodule_LIBERTE.git
